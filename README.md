@@ -5,9 +5,9 @@ Welcome to our structural bioinformatics project on the HSP90 protein family! Th
 ## 📁 Project Structure
 <pre lang="markdown"> 
   ├── assignment1/ 
-  │ ├── protein_function_analysis.md 
-  │ ├── domain_structure_notes.md 
-  │ └── presentation1.pptx 
+  │ ├── Protein_function_report.pdf
+  │ ├── function_presentation.pdf 
+  │ └── rcsb_pdb_1YET.fasta
   |
   │ ├── assignment2/ 
   │ ├── evolutionary_study.md 
