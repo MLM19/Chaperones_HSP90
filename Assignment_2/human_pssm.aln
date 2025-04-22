@@ -1,0 +1,194 @@
+CLUSTAL 2.1 multiple sequence alignment
+
+
+sp|Q58FF7|H90B3_HUMAN      --------------------------------------------------
+sp|Q14568|HS902_HUMAN      --------------------------------------------------
+sp|P14625|ENPL_HUMAN       MRALWVLGLCCVLLTFGSVRADDEVDVDGTVEEDLGKSREGSRTDDEVVQ
+sp|Q58FF3|ENPLL_HUMAN      --------------------------------------------------
+6XG6_1|Chains              --------------------------------------------------
+sp|Q12931|TRAP1_HUMAN      --------------------------------------------------
+                                                                             
+
+sp|Q58FF7|H90B3_HUMAN      --------------------------------------------------
+sp|Q14568|HS902_HUMAN      --------------------------------------------------
+sp|P14625|ENPL_HUMAN       REEEAIQLDGLNASQIRELREKSEKFAFQAEVNRMMKLIINSLYKNKEIF
+sp|Q58FF3|ENPLL_HUMAN      --------------------------------------------------
+6XG6_1|Chains              --------------------------------------------------
+sp|Q12931|TRAP1_HUMAN      --------------------------------------------------
+                                                                             
+
+sp|Q58FF7|H90B3_HUMAN      --------------------------------------------------
+sp|Q14568|HS902_HUMAN      --------------------------------------------------
+sp|P14625|ENPL_HUMAN       LRELISNASDALDKIRLISLTDENALSGNEELTVKIKCDKEKNLLHVTDT
+sp|Q58FF3|ENPLL_HUMAN      --------------------------------------------------
+6XG6_1|Chains              --------------------------------------------------
+sp|Q12931|TRAP1_HUMAN      --------------------------------------------------
+                                                                             
+
+sp|Q58FF7|H90B3_HUMAN      --------------------------------------------------
+sp|Q14568|HS902_HUMAN      --------------------------------------------------
+sp|P14625|ENPL_HUMAN       GVGMTREELVKNLGTIAKSGTSEFLNKMTEAQEDGQSTSELIGQFGVGFY
+sp|Q58FF3|ENPLL_HUMAN      --------------------------------------------------
+6XG6_1|Chains              --------------------------------------------------
+sp|Q12931|TRAP1_HUMAN      --------------------------------------------------
+                                                                             
+
+sp|Q58FF7|H90B3_HUMAN      --------------------------------------------------
+sp|Q14568|HS902_HUMAN      --------------------------------------------------
+sp|P14625|ENPL_HUMAN       SAFLVADKVIVTSKHNNDTQHIWESDSNEFSVIADPRGNTLGRGTTITLV
+sp|Q58FF3|ENPLL_HUMAN      --------------------------------------------------
+6XG6_1|Chains              --------------------------------------------------
+sp|Q12931|TRAP1_HUMAN      ----------------------MARELRALLLWGRRLRPLLRAPALAAVP
+                                                                             
+
+sp|Q58FF7|H90B3_HUMAN      ----------------------------------MPEEVHHG--------
+sp|Q14568|HS902_HUMAN      ----------------------------------MPEETQTQDQP-----
+sp|P14625|ENPL_HUMAN       LKEEASDYLELDTIKNLVKKYSQFINFPIYVWSSKTETVEEPMEEEEAAK
+sp|Q58FF3|ENPLL_HUMAN      ----------------------------------MAETIQE---------
+6XG6_1|Chains              -------------GIDP------------FTSTQTAEDKEEPLHSIIS--
+sp|Q12931|TRAP1_HUMAN      GGKPILCPRRTTAQLGPRRNPAWSLQAGRLFSTQTAEDKEEPLHSIIS--
+                                                              .*  .          
+
+sp|Q58FF7|H90B3_HUMAN      --------------------------------------------------
+sp|Q14568|HS902_HUMAN      -------------------------------------------------M
+sp|P14625|ENPL_HUMAN       EEKEESDDEAAVEEEEEEKKPKTKKVEKTVWDWELMNDIKPIWQRPSKEV
+sp|Q58FF3|ENPLL_HUMAN      --------------------------------------------------
+6XG6_1|Chains              ----------------------------------------------STES
+sp|Q12931|TRAP1_HUMAN      ----------------------------------------------STES
+                                                                             
+
+sp|Q58FF7|H90B3_HUMAN      -EEEVETFAFQAEIAQLISLIINTFYSNEEIFLQELISNASDALDKIRYE
+sp|Q14568|HS902_HUMAN      EEEEVETFAFQAEIAQLMSLIINTFYSNKEIFLRELISNSSDALDKIWYE
+sp|P14625|ENPL_HUMAN       EEDEYKAFYKSFSKESDDPMAYIHFTAEGEVTFKSILFVPTSAPRGLFDE
+sp|Q58FF3|ENPLL_HUMAN      VEDEYKAFCKSFSKESDDPVACIHFTAEGEVTFKSILFVPTFVPRGLFDE
+6XG6_1|Chains              VQGSTSKHEFQAETKKLLDIVARSLYSEKEVFIRELISNASDALEKLRHK
+sp|Q12931|TRAP1_HUMAN      VQGSTSKHEFQAETKKLLDIVARSLYSEKEVFIRELISNASDALEKLRHK
+                            : . . .  . .  .   :    : :: *: ::.::  .: .   :  :
+
+sp|Q58FF7|H90B3_HUMAN      SLTDPS---KLDSGKELKIDIIPNPQERTLALVDTGIGMTKADLINNLRT
+sp|Q14568|HS902_HUMAN      SLTDPS---KLDSGKELHINLIPNKQDQTLTIVDTGIGMTKADLINNLGT
+sp|P14625|ENPL_HUMAN       YGSKKSDYIKLYVRRVFITDDFHDMMPKYLNFVKGVVDSDDLPLNVSRET
+sp|Q58FF3|ENPLL_HUMAN      YGSKKSDYIKLYVRCVFITDDFRDTMPKNLNFVKGVVDSGGLSLNVSCET
+6XG6_1|Chains              LVSDGQ------ALPEMEIHLQTNAEKGTITIQDTGIGMTQEELVSNLGT
+sp|Q12931|TRAP1_HUMAN      LVSDGQ------ALPEMEIHLQTNAEKGTITIQDTGIGMTQEELVSNLGT
+                             :. .          :  .   :     : : .  :.     *  .  *
+
+sp|Q58FF7|H90B3_HUMAN      IAKSGTKACMEALQA-----------------------EKLVVITKHNDD
+sp|Q14568|HS902_HUMAN      IAKSGTKAFMEALQAGADISMIGQ--FGVSFYSAYLVAEKVTVITKHNDD
+sp|P14625|ENPL_HUMAN       LQQHKLLKVIRKKLVR-------------------KTLDMIKKIADDKYN
+sp|Q58FF3|ENPLL_HUMAN      LQQHKLLKVIRKKLVH-------------------KTLDMIKKIADEKYN
+6XG6_1|Chains              IARSGSKAFLDALQNQAEASSKIIGQFGVGFYSAFMVADRVEVYSRSAAP
+sp|Q12931|TRAP1_HUMAN      IARSGSKAFLDALQNQAEASSKIIGQFGVGFYSAFMVADRVEVYSRSAAP
+                           : :      :                            : :   :     
+
+sp|Q58FF7|H90B3_HUMAN      EQYAWESSAGGSFTVHADHGEPIGRGTKVILHLKED----QTEYLEERRV
+sp|Q14568|HS902_HUMAN      EQYAWESSAGGSFTVRTDTGERMGRGTKVILHLKED----QTEYLEEQRI
+sp|P14625|ENPL_HUMAN       DTFWKEFGTNIKLGVIEDHSNRTRLAKLLRFQSSHHPTDITSLDQYVERM
+sp|Q58FF3|ENPLL_HUMAN      DTFWKEFGTNIKLGVIEDHSNRTCLAKLLRFQSSHHPADITSLHQDVERM
+6XG6_1|Chains              GSLGYQWLSDGSGVFEIAEASGVRTGTKIIIHLKSD----CKEFSSEARV
+sp|Q12931|TRAP1_HUMAN      GSLGYQWLSDGSGVFEIAEASGVRTGTKIIIHLKSD----CKEFSSEARV
+                                :  :. .  .    ..    .. : :: . .     .      *:
+
+sp|Q58FF7|H90B3_HUMAN      KEVVKKHSQFIG--------------------------YPITLYLEKEQD
+sp|Q14568|HS902_HUMAN      KEIVKKHSQLIG--------------------------YPITLFVEKECD
+sp|P14625|ENPL_HUMAN       KEKQDKIYFMAGSSRKEAESSP-------FVERLLKKGYEVIYLTEPVDE
+sp|Q58FF3|ENPLL_HUMAN      KEKQDKICLMAG-------------------------GYEVIYLTEPVVE
+6XG6_1|Chains              RDVVTKYSNFVSFPLYLNGRRMNTLQAIWMMDPKDVGEWQHEEFYRYVAQ
+sp|Q12931|TRAP1_HUMAN      RDVVTKYSNFVSFPLYLNGRRMNTLQAIWMMDPKDVREWQHEEFYRYVAQ
+                           ::   *   : .                          :      .   :
+
+sp|Q58FF7|H90B3_HUMAN      KEISDD-EAEEEKG---EKEEEDKDDEEKPKIKDVGSDEEDDSKEYGEFY
+sp|Q14568|HS902_HUMAN      KEVSDD-ETEEKEDKEEEKEKEEKESKDKPEIEDVGSDEEEEKKDG----
+sp|P14625|ENPL_HUMAN       YCIQALPEFDGKRFQNVAKEGVKFDESEKTKESREAVEKEFEPLLN----
+sp|Q58FF3|ENPLL_HUMAN      YCIQALPEFDGKRFQNVAKEGVKFDDSEKTKESHEAVEKEFEPLPN----
+6XG6_1|Chains              AHDKPRYTLHYKTDAPLNIRSIFYVPDMKPSMFDVSRELGSSVALYSRKV
+sp|Q12931|TRAP1_HUMAN      AHDKPRYTLHYKTDAPLNIRSIFYVPDMKPSMFDVSRELGSSVALYSRKV
+                              .     . :       .      . *..    . :   .        
+
+sp|Q58FF7|H90B3_HUMAN      KSLTSDWEDHLAVKHFSVEGQLEFRALLFSPRRAPFDLFENKKKKNNIKL
+sp|Q14568|HS902_HUMAN      ----------------------------------------DKKKKKTKEK
+sp|P14625|ENPL_HUMAN       -------------------------------------WMKDKALKDKIEK
+sp|Q58FF3|ENPLL_HUMAN      -------------------------------------WVKDKAIKDKIEK
+6XG6_1|Chains              LIQTKATDILPKWLRFIRGVVDSEDIPLNLSRELLQESALIRKLRDVLQQ
+sp|Q12931|TRAP1_HUMAN      LIQTKATDILPKWLRFIRGVVDSEDIPLNLSRELLQESALIRKLRDVLQQ
+                                                                    :  :.  : 
+
+sp|Q58FF7|H90B3_HUMAN      YVRRVFIMDSCDELIPEYLNFIHGVVDSED------------------LP
+sp|Q14568|HS902_HUMAN      YID-----------------------------------------------
+sp|P14625|ENPL_HUMAN       AVVSQRLTES----------------------------------------
+sp|Q58FF3|ENPLL_HUMAN      AMVSQCLTES----------------------------------------
+6XG6_1|Chains              RLIKFFIDQSKKDAEKYAKFFEDYGLFMREGIVTATEQEVKEDIAKLLRY
+sp|Q12931|TRAP1_HUMAN      RLIKFFIDQSKKDAEKYAKFFEDYGLFMREGIVTATEQEVKEDIAKLLRY
+                            :                                                
+
+sp|Q58FF7|H90B3_HUMAN      LNISREMLQQSKILKYVSHMKETQKSTYYITGESKEQVANSAFVERVRKQ
+sp|Q14568|HS902_HUMAN      --------------------QEELNKTKPIWTRNPDDITN----------
+sp|P14625|ENPL_HUMAN       --------------------PCALVASQYGWSGNMERIMK----------
+sp|Q58FF3|ENPLL_HUMAN      --------------------LCALVASQYGWSGNMERIMK----------
+6XG6_1|Chains              ESSALPSGQLTSLSEYASRMRAGTRNIYYLCAPNRHLAEHSPYYEAMKKK
+sp|Q12931|TRAP1_HUMAN      ESSALPSGQLTSLSEYASRMRAGTRNIYYLCAPNRHLAEHSPYYEAMKKK
+                                                            . .   :          
+
+sp|Q58FF7|H90B3_HUMAN      GFEVVYMTEPIDEYCVQQLKEFDGKSLVSVTKEGLELPEDEEEKKKMEES
+sp|Q14568|HS902_HUMAN      --------EEYGEFCKNLTNDWEDH-------------------------
+sp|P14625|ENPL_HUMAN       --------AQAYQTGKDISTNYYAS-------------------------
+sp|Q58FF3|ENPLL_HUMAN      --------AQAYQTGKGISTNYHAS-------------------------
+6XG6_1|Chains              DTEVLFCFEQFDELTLLHLREFDKKKLISVETDIVVDHYKEEKFEDRSP-
+sp|Q12931|TRAP1_HUMAN      DTEVLFCFEQFDELTLLHLREFDKKKLISVETDIVVDHYKEEKFEDRSP-
+                                       :       ::                            
+
+sp|Q58FF7|H90B3_HUMAN      KEKFENLCKLMKEILDKKVEKVTISNRLVSSPCCIVTSTYGWTANMEQIM
+sp|Q14568|HS902_HUMAN      --------------------------------------------------
+sp|P14625|ENPL_HUMAN       --------------------------------------------------
+sp|Q58FF3|ENPLL_HUMAN      --------------------------------------------------
+6XG6_1|Chains              --------------------------------------------------
+sp|Q12931|TRAP1_HUMAN      --------------------------------------------------
+                                                                             
+
+sp|Q58FF7|H90B3_HUMAN      KAQALRDNSTMGYMMAKKHLEINPDHPIMETLRQKAEADKNDKAVKDLVV
+sp|Q14568|HS902_HUMAN      --------------LAVKHFSV--------------------EGQLEFRA
+sp|P14625|ENPL_HUMAN       ---------------QKKTFEINPRHPLIRDMLRRIKEDEDDKTVLDLAV
+sp|Q58FF3|ENPLL_HUMAN      ---------------RKKTFEINPRHPLIRDMLRRIKEDEDDKTVLDLAV
+6XG6_1|Chains              ------------AAECLSEKETEELMAWMRNVLGSRVTNVKVTLRLDTHP
+sp|Q12931|TRAP1_HUMAN      ------------AAECLSEKETEELMAWMRNVLGSRVTNVKVTLRLDTHP
+                                            .  .                         :   
+
+sp|Q58FF7|H90B3_HUMAN      LLFETALLSSG---------------------------FSLEDPQTHSNH
+sp|Q14568|HS902_HUMAN      LLFVP---------------------------------------------
+sp|P14625|ENPL_HUMAN       VLFETATLRSGYLLPDTKAYGDRIERMLRLSLNIDPDAKVEEEPEEEPEE
+sp|Q58FF3|ENPLL_HUMAN      V----------------------------------------EEPDEEPEE
+6XG6_1|Chains              AMVTVLEMGAARHFLRMQQLAKTQEERAQLLQPTLEINPRHALIKKLNQL
+sp|Q12931|TRAP1_HUMAN      AMVTVLEMGAARHFLRMQQLAKTQEERAQLLQPTLEINPRHALIKKLNQL
+                                                                             
+
+sp|Q58FF7|H90B3_HUMAN      IYHMIKLGLGTDEDEVAAEEPSDAVPDEIPPLEGDEDASRMEEVD-----
+sp|Q14568|HS902_HUMAN      --------------------------------------------------
+sp|P14625|ENPL_HUMAN       TAEDTTEDTEQDEDEEMDVGTDEE-EETAKESTAEKDEL-----------
+sp|Q58FF3|ENPLL_HUMAN      TAEDK----EQDKDKEMDVGTDEEKQETAKESTAEKDEL-----------
+6XG6_1|Chains              RASEPGLAQLLVDQIYENAMIAAGLVDDPRAMVGRLNELLVKALERHGGS
+sp|Q12931|TRAP1_HUMAN      RASEPGLAQLLVDQIYENAMIAAGLVDDPRAMVGRLNELLVKALERH---
+                                                                             
+
+sp|Q58FF7|H90B3_HUMAN      --------------------------------------------------
+sp|Q14568|HS902_HUMAN      --------------------------------------------------
+sp|P14625|ENPL_HUMAN       --------------------------------------------------
+sp|Q58FF3|ENPLL_HUMAN      --------------------------------------------------
+6XG6_1|Chains              GSGSSAMVDTLSGLSSEQGQSGDMTIEEDSATHIKFSKRDEDGKELAGAT
+sp|Q12931|TRAP1_HUMAN      --------------------------------------------------
+                                                                             
+
+sp|Q58FF7|H90B3_HUMAN      --------------------------------------------------
+sp|Q14568|HS902_HUMAN      --------------------------------------------------
+sp|P14625|ENPL_HUMAN       --------------------------------------------------
+sp|Q58FF3|ENPLL_HUMAN      --------------------------------------------------
+6XG6_1|Chains              MELRDSSGKTISTWISDGQVKDFYLYPGKYTFVETAAPDGYEVATAITFT
+sp|Q12931|TRAP1_HUMAN      --------------------------------------------------
+                                                                             
+
+sp|Q58FF7|H90B3_HUMAN      --------------------
+sp|Q14568|HS902_HUMAN      --------------------
+sp|P14625|ENPL_HUMAN       --------------------
+sp|Q58FF3|ENPLL_HUMAN      --------------------
+6XG6_1|Chains              VNEQGQVTVNGKATKGDAHI
+sp|Q12931|TRAP1_HUMAN      --------------------
+                                               

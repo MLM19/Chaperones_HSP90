@@ -1,0 +1,84 @@
+# STOCKHOLM 1.0
+
+#=GS 6XG6_1|Chains         DE A, B|Heat shock protein 75 kDa, mitochondrial, Fibronectin binding protein fusion|Homo sapiens (9606)
+#=GS sp|Q12931|TRAP1_HUMAN DE Heat
+#=GS sp|P14625|ENPL_HUMAN  DE Endoplasmin
+#=GS sp|Q58FF7|H90B3_HUMAN DE Putative
+#=GS sp|Q14568|HS902_HUMAN DE Putative
+#=GS sp|Q58FF3|ENPLL_HUMAN DE Putative
+
+6XG6_1|Chains                 .....................................................gidpftstqtaedkeeplhsiisstesvqgstskhefqaetkklldivarslysekevfirelisnasdaleklrhklvsdgqalpemeihlqtnaekgtitiqdtgigmtqeelvsnlgtiarsgskafldalqnqaeasskiigq
+#=GR 6XG6_1|Chains         PP .....................................................***************************************************************************************************************************************************
+sp|Q12931|TRAP1_HUMAN         marelralllwgrrlrpllrapalaavpggkpilcprrttaqlgprrnpawslqagrlfstqtaedkeeplhsiisstesvqgstskhefqaetkklldivarslysekevfirelisnasdaleklrhklvsdgqalpemeihlqtnaekgtitiqdtgigmtqeelvsnlgtiarsgskafldalqnqaeasskiigq
+#=GR sp|Q12931|TRAP1_HUMAN PP ********************************************************************************************************************************************************************************************************
+sp|P14625|ENPL_HUMAN          .................................mralwvlglccvlltfgsvraddevdvdgtveedlgksregsrtddevvqreeeaiqldglnasqirelreksekfafqaevnrmmkliinslyknkeiflrelisnasdaldkirlisltdenalsgneeltvkikcdkeknllhvtdtgvgmtreelvknlgtia
+#=GR sp|P14625|ENPL_HUMAN  PP .................................***********************************************************************************************************************************************************************
+sp|Q58FF7|H90B3_HUMAN         ........................................................................................................................mpeevhhgeeevetfafqaeiaqlisliintfysneeiflqelisnasdaldkiryesltdpskldsgkelkidiipnpq
+#=GR sp|Q58FF7|H90B3_HUMAN PP ........................................................................................................................********************************************************************************
+sp|Q14568|HS902_HUMAN         ..............................................................................................mpeetqtqdqpmeeeevetfafqaeiaqlmsliintfysnkeiflrelisnssdaldkiwyesltdpskldsgkelhinlipnkqdqtltivdtgigmtkadlinn
+#=GR sp|Q14568|HS902_HUMAN PP ..............................................................................................**********************************************************************************************************
+sp|Q58FF3|ENPLL_HUMAN         ........................................................................................................................................................................................................
+#=GR sp|Q58FF3|ENPLL_HUMAN PP ........................................................................................................................................................................................................
+#=GC PP_cons                  ........................................................................................................................................................................................................
+#=GC RF                       ........................................................................................................................................................................................................
+
+6XG6_1|Chains                 fgvgfysafmvadrvevysrsaapgslgyqwlsdgsgvfeiaeasgvrtgtkiiihlksdckefssearvrdvvtkysnfvsfplylng-------------------------------------------------------...--------..-----------------------RRMNTLQAIWMMDPKDVGEW
+#=GR 6XG6_1|Chains         PP ********************************************************************************999998766...........................................................................................579*****************
+sp|Q12931|TRAP1_HUMAN         fgvgfysafmvadrvevysrsaapgslgyqwlsdgsgvfeiaeasgvrtgtkiiihlksdckefssearvrdvvtkysnfvsfplylng-------------------------------------------------------...--------..-----------------------RRMNTLQAIWMMDPKDVREW
+#=GR sp|Q12931|TRAP1_HUMAN PP ********************************************************************************999998766...........................................................................................579*****************
+sp|P14625|ENPL_HUMAN          ksgtseflnkmteaqedgqstseligqfgvgfysaflvadkvivtskhnndtqhiwesdsnefsviadprgntlgrgttitlvlkeeasDYLELDTIKNLVKKYSQFINFPIYVWSSKTETVEEPMEEEEAAKEEKEESD----...-----DEA..AVEEEEEEKKPKTKKVEKTVWDWELMNDIKPIWQRPSKEVEED
+#=GR sp|P14625|ENPL_HUMAN  PP *****************************************************************************************7**************************************999888888777............556..67778889***********************************
+sp|Q58FF7|H90B3_HUMAN         ertlalvdtgigmtkadlinnlrtiaksgtkacmealqaeklvvitkhnddeqyawessaggsftvhadhgepigrgtkvilhlkedqtEYLEERRVKEVVKKHSQFIGYPITLYLEKEQDKEISDDEAEEEKGEKEE------...--------..-EDKDDEE-KPKIKDVG---SDEED---------------DSK
+#=GR sp|Q58FF7|H90B3_HUMAN PP *****************************************************************************************8**************************************8664333332....................2334443.46655554...44432...............356
+sp|Q14568|HS902_HUMAN         lgtiaksgtkafmealqagadismigqfgvsfysaylvaekvtvitkhnddeqyawessaggsftvrtdtgermgrgtkvilhlkedqtEYLEEQRIKEIVKKHSQLIGYPITLFVEKECDKEVSDDETEEKEDKEEEKEKEEKeskDKPEIEDVgsDEEEEKKDGDKKKKKTKEKYIDQEELNKTKPIWTRNPDDITNE
+#=GR sp|Q14568|HS902_HUMAN PP *****************************************************************************************8************************************99877554443333332223344555554113444445556999******************************
+sp|Q58FF3|ENPLL_HUMAN         .................................................................................maetiqev-------------------------------------------------------...--------..-----------------------------------------ED
+#=GR sp|Q58FF3|ENPLL_HUMAN PP .................................................................................99887654.............................................................................................................68
+#=GC PP_cons                  .........................................................................................8*************************************98876555554553322...44555555..54555566778888888***888779**************989
+#=GC RF                       .........................................................................................xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+6XG6_1|Chains                 QHEEFYRYVAQAHDKPRYTLHYKTDAPLNIRSIFYVPDMKPS-MFDVS.rELGSSVALYSRKVLIQTKATDILPKWLRFIRGVVDSEDIPLNLSRELLQESALIRKLRDVLQQRLIKFFIDQSkKDAEKYAKFFEDYGLFMREGIVTATeqEVKEDIAKLLRYESSALpSGQLTSLSEYASRMRAGTRNIYYLCAPNRHL
+#=GR 6XG6_1|Chains         PP *****************************************7.67755.27789**************************************************************987665416889*****************87551156889********99862579****************************
+sp|Q12931|TRAP1_HUMAN         QHEEFYRYVAQAHDKPRYTLHYKTDAPLNIRSIFYVPDMKPS-MFDVS.rELGSSVALYSRKVLIQTKATDILPKWLRFIRGVVDSEDIPLNLSRELLQESALIRKLRDVLQQRLIKFFIDQSkKDAEKYAKFFEDYGLFMREGIVTATeqEVKEDIAKLLRYESSALpSGQLTSLSEYASRMRAGTRNIYYLCAPNRHL
+#=GR sp|Q12931|TRAP1_HUMAN PP *****************************************7.67755.27789**************************************************************987665416889*****************87551156889********99862579****************************
+sp|P14625|ENPL_HUMAN          EYKAFYKSFSKESDDPMAYIHFTAEGEVTFKSILFVPTSAPRGLFDEYgsKKSDYIKLYVRRVFITDDFHDMMPKYLNFVKGVVDSDDLPLNVSRETLQQHKLLKVIRKKLVRKTLDMIKKIA.DDKYN-DTFWKEFGTNIKLGVIEDH..SNRTRLAKLLRFQSSHH.PTDITSLDQYVERMKEKQDKIYFMAGSSRKE
+#=GR sp|P14625|ENPL_HUMAN  PP ***********************************************999999**********************************************************************.*****.*******************..*****************.*******************************
+sp|Q58FF7|H90B3_HUMAN         EYGEFYKSLTSDWEDHLAVKHFSVEGQLEFRALLFSPRRAPFDLFENK..KKKNNIKLYVRRVFIMDSCDELIPEYLNFIHGVVDSEDLPLNISREMLQQSKILK------------------.-------------------------..-----------------.---------YVSHMKETQKSTYYITGESKEQ
+#=GR sp|Q58FF7|H90B3_HUMAN PP 9***********************************************..***************************************************9986.........................................................................8999******************
+sp|Q14568|HS902_HUMAN         EYGEFCKNLTNDWEDHLAVKHFSVEGQLEFRALLFVP-----------..-------------------------------------------------------------------------.-------------------------..-----------------.-------------------------------
+#=GR sp|Q14568|HS902_HUMAN PP ************************************9...................................................................................................................................................................
+sp|Q58FF3|ENPLL_HUMAN         EYKAFCKSFSKESDDPVACIHFTAEGEVTFKSILFVPTFVPRGLFDEYgsKKSDYIKLYVRCVFITDDFRDTMPKNLNFVKGVVDSGGLSLNVSCETLQQHKLLKVIRKKLVHKTLDMIKKIA.DEKYN-DTFWKEFGTNIKLGVIEDH..SNRTCLAKLLRFQSSHH.PADITSLHQDVERMKEKQDKICLMAG-----
+#=GR sp|Q58FF3|ENPLL_HUMAN PP ***********************************************999999**********************************************************************.*****.*******************..*****************.*********************99998.....
+#=GC PP_cons                  *****************************************9*99988..899***************************************************9************998877.899******************9887..88999**********98.89*****************************
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+6XG6_1|Chains                 AEHSPYYEAMKKKDTEVLFCFEQFDELTLLHLREFDKKKLISVETD-IVVDHYKEEKFEDRSpaaeclSEKETEELMAWMRN.VLGSRVTNVKVTLRLDTHPAMVTVLEMGAARHF---LRMQQLA...KTQEERAQLLQPTLEINPRHALIKKLNQLRASEP--GLAQLLVDQIYENAMIAAGL-VDDPRAMVGRLNEL
+#=GR 6XG6_1|Chains         PP *******************************************999.55666555554433212222357899*********.****************************88765...5667788...888888888899**************98765543..334557889**********6.8************9
+sp|Q12931|TRAP1_HUMAN         AEHSPYYEAMKKKDTEVLFCFEQFDELTLLHLREFDKKKLISVETD-IVVDHYKEEKFEDRSpaaeclSEKETEELMAWMRN.VLGSRVTNVKVTLRLDTHPAMVTVLEMGAARHF---LRMQQLA...KTQEERAQLLQPTLEINPRHALIKKLNQLRASEP--GLAQLLVDQIYENAMIAAGL-VDDPRAMVGRLNEL
+#=GR sp|Q12931|TRAP1_HUMAN PP *******************************************999.55666555554433212222357899*********.****************************88765...5667788...888888888899**************98765543..334557889**********6.8***********99
+sp|P14625|ENPL_HUMAN          AESSPFVERLLKKGYEVIYLTEPVDEYCIQALPEFDGKRFQNVAKEGVKFDESEKTKESREA......VEKEFEPLLNWMKDkALKDKIEKAVVSQRLTESPCALVASQYGWSGNMERIMKAQAYQtgkDISTNYYASQKKTFEINPRHPLIRDMLRRIKEDEDDKTVLDLAVVLFETATLRSGYLLPDTKAYGDRIERM
+#=GR sp|P14625|ENPL_HUMAN  PP **************************************************************......**************9******************************************8888***********************************************************************
+sp|Q58FF7|H90B3_HUMAN         VANSAFVERVRKQGFEVVYMTEPIDEYCVQQLKEFDGKSLVSVTKEGLELPEDEEEKKKMEE......SKEKFENLCKLMKE.ILDKKVEKVTISNRLVSSPCCIVTSTYGWTANMEQIMKAQALR...DNSTMGYMMAKKHLEINPDHPIMETLRQKAEADKNDKAVKDLVVLLFETALLSSGFSLEDPQTHSNHIYHM
+#=GR sp|Q58FF7|H90B3_HUMAN PP **************************************************************......**************.*******************************************...***********************************************************************
+sp|Q14568|HS902_HUMAN         --------------------------------------------------------------......--------------.-------------------------------------------...-----------------------------------------------------------------------
+#=GR sp|Q14568|HS902_HUMAN PP ........................................................................................................................................................................................................
+sp|Q58FF3|ENPLL_HUMAN         -------------GYEVIYLTEPVVEYCIQALPEFDGKRFQNVAKEGVKFDDSEKTKESHEA......VEKEFEPLPNWVKDkAIKDKIEKAMVSQCLTESLCALVASQYGWSGNMERIMKAQAYQtgkGISTNYHASRKKTFEINPRHPLIRDMLRRIKEDEDDKTVLDLAVV--------------------------
+#=GR sp|Q58FF3|ENPLL_HUMAN PP .............7************************************************......*************999*****************************************9666799**************************************9976..........................
+#=GC PP_cons                  *************9*********************************888888888887777......899***********.****************************99998***8889998...99999999999****************9988887**778889999**********8*9*************
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx......xxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+6XG6_1|Chains                 LVKALE-----------------------------------rhggsgsgssamvdtlsglsseqgqsgdmtieedsathikfskrdedgkelagatmelrdssgktistwisdgqvkdfylypgkytfvetaapdgyevataitftvneqgqvtvngkatkgdahi
+#=GR 6XG6_1|Chains         PP 998886...................................667778888888888888888889999999999********************************************************************************************
+sp|Q12931|TRAP1_HUMAN         LVKAL------------------------------------erh..........................................................................................................................
+#=GR sp|Q12931|TRAP1_HUMAN PP 98877....................................589..........................................................................................................................
+sp|P14625|ENPL_HUMAN          LRLSLNIDPDAKVEEEPEEEPEETAEDTTEDTEQDEDEEMDvgtdeeeetakestaekdel.........................................................................................................
+#=GR sp|P14625|ENPL_HUMAN  PP ***************************************98********************.........................................................................................................
+sp|Q58FF7|H90B3_HUMAN         IKLGLGTDEDEVAAEEPSDAVPDEIPPLEGDEDASRMEEVD.............................................................................................................................
+#=GR sp|Q58FF7|H90B3_HUMAN PP ****************************************9.............................................................................................................................
+sp|Q14568|HS902_HUMAN         -----------------------------------------.............................................................................................................................
+#=GR sp|Q14568|HS902_HUMAN PP ......................................................................................................................................................................
+sp|Q58FF3|ENPLL_HUMAN         -----------------------------------------eepdeepeetaedkeqdkdkemdvgtdeekqetakestaekdel.................................................................................
+#=GR sp|Q58FF3|ENPLL_HUMAN PP .........................................889999999999999999999999999999999999999999**.................................................................................
+#=GC PP_cons                  999999*********************************98.............................................................................................................................
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.............................................................................................................................
+//

@@ -1,0 +1,117 @@
+# STOCKHOLM 1.0
+
+#=GS 6XG6_1|Chains         DE A, B|Heat shock protein 75 kDa, mitochondrial, Fibronectin binding protein fusion|Homo sapiens (9606)
+#=GS sp|Q24VT7|HTPG_DESHY  DE Chaperone
+#=GS sp|A4SLY0|HTPG_AERS4  DE Chaperone
+#=GS sp|P0A6Z3|HTPG_ECOLI  DE Chaperone
+#=GS sp|Q69QQ6|HSP82_ORYSJ DE Heat
+#=GS sp|O02705|HS90A_PIG   DE Heat
+#=GS sp|P82995|HS90A_RAT   DE Heat
+#=GS sp|P11501|HS90A_CHICK DE Heat
+#=GS sp|Q76LV1|HS90B_BOVIN DE Heat
+
+6XG6_1|Chains                 gidpftstqtaedkeeplhsiisstesvqgstskhefqaetkklldivarslysekevfirelisnasdaleklrhklvsdgqalpemeihlqtnaekgtitiqdtgigmtqeelvsnlgtiarsgskafldalqnqaeasskiigqfgvgfysafmvadrvevysrsaapgslgyqwlsdgsgvfeiaeasgvrtgtki
+#=GR 6XG6_1|Chains         PP ********************************************************************************************************************************************************************************************************
+sp|Q24VT7|HTPG_DESHY          ...........................msqietkefqteirqlldivinslytdreiflrelisnaadasekvrymqlsgqnvkdqelpleiritpdenaktltiadagigmtkedlienigtiahsgskafvqrlaeagdkkdvnligqfgvgfysafmvadkvsltsrsyepdaqgyrwesdgrgsysiseemdlprg
+#=GR sp|Q24VT7|HTPG_DESHY  PP ...........................*****************************************************************************************************************************************************************************
+sp|A4SLY0|HTPG_AERS4          ...............mtqsvhaethgfqtevkqllslmahslysnkevflrelisnasdaadklrfkalsdaslfendgqlrvrlvvdkenrtltisdngigmtrdqviehlgtiaksgtaeffknlsgdqgrdsqligqfgvgfysafivadkvtvvsraagtapeqgvqwesegegsftvadvtkegrgtdvilhlra
+#=GR sp|A4SLY0|HTPG_AERS4  PP ...............****************************************************************************************************************************************************************************************9
+sp|P0A6Z3|HTPG_ECOLI          .........................mkgqetrgfqsevkqllhlmihslysnkeiflrelisnasdaadklrfralsnpdlyegdgelrvrvsfdkdkrtltisdngvgmtrdevidhlgtiaksgtksfleslgsdqakdsqligqfgvgfysafivadkvtvrtraagekpengvfwesagegeytvaditkedrgte
+#=GR sp|P0A6Z3|HTPG_ECOLI  PP .........................********************************************************************************************************************************************************************99999999999
+sp|Q69QQ6|HSP82_ORYSJ         ....................................................masetetfafqaeinqllsliintfysnkeiflrelisnssdaldkirfesltdkskldaqpelfihivpdkasntlsiidsgvgmtksdlvnnlgtiarsgtkefmealaagadvsmigqfgvgfysaylvaervvvttkhnddeqy
+#=GR sp|Q69QQ6|HSP82_ORYSJ PP ....................................................****************************************************************************************************************************************************
+sp|O02705|HS90A_PIG           .........................................mpeetqtqdqpmeeeevetfafqaeiaqlmsliintfysnkeiflrelisnssdaldkiryesltdpskldsgkelhinlipnkqdrtltivdtgigmtkadlinnlgtiaksgtkafmealqagadismigqfgvgfysaylvaekvtvitkhnddeq
+#=GR sp|O02705|HS90A_PIG   PP .........................................***************************************************************************************************************************************************************
+sp|P82995|HS90A_RAT           .........................................mpeetqtqdqpmeeeevetfafqaeiaqlmsliintfysnkeiflrelisnssdaldkiryesltdpskldsgkelhinlipnkqdrtltivdtgigmtkadlinnlgtiaksgtkafmealqagadismigqfgvgfysaylvaekvtvitkhnddeq
+#=GR sp|P82995|HS90A_RAT   PP .........................................***************************************************************************************************************************************************************
+sp|P11501|HS90A_CHICK         ..........................................mpeavqtqdqpmeeevetfafqaeiaqlmsliintfysnkeiflrelisnssdaldkiryesltdpskldsgkdlkinlipnkhdrtltivdtgigmtkadlvnnlgtiaksgtkafmealqagadismigqfgvgsysaylvaekvtvitkhnddeq
+#=GR sp|P11501|HS90A_CHICK PP ..........................................**************************************************************************************************************************************************************
+sp|Q76LV1|HS90B_BOVIN         ..............................................mpeevhhgeeevetfafqaeiaqlmsliintfysnkeiflrelisnasdaldkiryesltdpskldsgkelkidiipnpqertltlvdtgigmtkadlvnnlgtiaksgtkafmealqagadismigqfgvgfysaylvaekvvvitkhnddeq
+#=GR sp|Q76LV1|HS90B_BOVIN PP ..............................................**********************************************************************************************************************************************************
+#=GC PP_cons                  ........................................................................................................................................................................................................
+#=GC RF                       ........................................................................................................................................................................................................
+
+6XG6_1|Chains                 iihlksdckefssearvrdvvtkysnfvsfplylng-------------------------------------------------------...--------...------...---....--------------RRMNTLQAIWMMDPKDVGEWQHEEFYRYVAQAHDKPRYTLHYKTDAPLNIRSIFYVPDMKPS-MF
+#=GR 6XG6_1|Chains         PP ***************************999998766...................................................................................................579**********************************************************7.67
+sp|Q24VT7|HTPG_DESHY          tsitlhlkedahsfaqadtvkriikqyssfvpypvy-------------------------------------------------------...--------...------...---....-----------VGEEKINTVQALWTKNKNEISEEEYKEFYKYIANAYDEPLMRMHFSSDAPINLNALLFVPKS-NMEKF
+#=GR sp|Q24VT7|HTPG_DESHY  PP **************9999999999999999999875................................................................................................56899*******************************************************86.58889
+sp|A4SLY0|HTPG_AERS4          eeeeflddwrlravvakysdhisvpvemfkegtpdr-------------------------------------------------------...--------...------...---....EEDGETVVGTPGEWEQVNRATALWTRNPKEIKDEEYQEFYKHVAHDFEDPLLWGHNRVEGAQEYTSLLYVPARAPFDLY
+#=GR sp|A4SLY0|HTPG_AERS4  PP 999999999999999998888888777766555544.....................................................................................445667888899*******************************************************************
+sp|P0A6Z3|HTPG_ECOLI          itlhlregedeflddwrvrsiiskysdhialpveie-------------------------------------------------------...--------...------...---....-KREEKDGETVISWEKINKAQALWTRNKSEITDEEYKEFYKHIAHDFNDPLTWSHNRVEGKQEYTSLLYIPSQAPWDMW
+#=GR sp|P0A6Z3|HTPG_ECOLI  PP 999999999999999999999988888888887654......................................................................................566677899*********************************************************************
+sp|Q69QQ6|HSP82_ORYSJ         vwesqaggsftvtrdtsgeqlgrgtkitlylkddqlEYLEERRLKDLVKKHSEFISYPISLWTEKTTEKEISDDEDEEEKKDAEE------...--GKVEDV...DEE--K...EEK....EKKKKKIKEVSHEWNVMNKQKPIWLRKPEEITKEEYAAFYKSLTNDWEEHLAVKHFSVEGQLEFKAILFVPKRAPFDLF
+#=GR sp|Q69QQ6|HSP82_ORYSJ PP ************************************8**************************************8774444432...........234444...444..5...567....7799***************************************************************************
+sp|O02705|HS90A_PIG           yawessaggsftvrtdtgepmgrgtkvilhlkedqtEYLEERRIKEIVKKHSQFIGYPITLFVEKERDKEVSDDEAEEKEDKEEEKEKEEKeseDKPEIEDV...GSDEEE...EEKkdgdKKKKKKIKEKYIDQEELNKTKPIWTRNPDDITNEEYGEFYKSLTNDWEDHLAVKHFSVEGQLEFRALLFVPRRAPFDLF
+#=GR sp|O02705|HS90A_PIG   PP ************************************8*************************************9887554444333332233434444443...333333...33312227999***************************************************************************
+sp|P82995|HS90A_RAT           yawessaggsftvrtdtgepmgrgtkvilhlkedqtEYLEERRIKEIVKKHSQFIGYPITLFVEKERDKEVSDDEAEEKEEKEEEKEKEEKesdDKPEIEDV...GSDEEE...EEKkdgdKKKKKKIKEKYIDQEELNKTKPIWTRNPDDITNEEYGEFYKSLTNDWEEHLAVKHFSVEGQLEFRALLFVPRRAPFDLF
+#=GR sp|P82995|HS90A_RAT   PP ************************************8*************************************9887655444443333334534444443...333333...33312227999***************************************************************************
+sp|P11501|HS90A_CHICK         yawessaggsftvrldngeplgrgtkvilhlkedqtEYLEERRIKEIVKKHSQFIGYPIRLFVEKERDKEVSDDEAEEKEEEKEEKEEKTE...DKPEIEDVgsdEEEEKK...DGD....KKKKKKIKEKYIDEEELNKTKPIWTRNPDDITNEEYGEFYKSLTNDWEDHLAVKHFSVEGQLEFRALLFVPRRAPFDLF
+#=GR sp|P11501|HS90A_CHICK PP ************************************8**************************************************9999...77776654111444455...556....89*****************************************************************************
+sp|Q76LV1|HS90B_BOVIN         yawessaggsftvradhgepigrgtkvilhlkedqtEYLEERRVKEVVKKHSQFIGYPITLYLEKEREKEISDDEAEEEKGEKEEEDKDDE...EKPKIEDV...GSDEEDdsgKDK....KKKTKKIKEKYIDQEELNKTKPIWTRNPDDITQEEYGEFYKSLTNDWEDHLAVKHFSVEGQLEFRALLFIPRRAPFDLF
+#=GR sp|Q76LV1|HS90B_BOVIN PP ************************************8*******************************************99999999888...88888876...554444112689....*******************************************************************************
+#=GC PP_cons                  ....................................8**************************************9887766666666666...56555554...444444...455....77889999***99*9***********************************************************99*9*
+#=GC RF                       ....................................xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxx...xxxxxx...xxx....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+6XG6_1|Chains                 DVSrELGSSVALYSRKVLIQTKATDILPKWLRFIRGVVDSEDIPLNLSRELLQESALIRKLRDVLQQRLIKFFIDQSkKDA.EKYAKFFEDYGLFMREGIVTATeqEVKEDIAKLLRYESSA..LpS.G..QLTSLSEYASRMRAGTRNIYYLCAPNRHLAEHSPYYEAMKKKDTEVLFCFEQFDELTLLHLREFDKKKL
+#=GR 6XG6_1|Chains         PP 75527789**************************************************************98766541688.9*****************87551156889********998..625.7..9********************************************************************
+sp|Q24VT7|HTPG_DESHY          GFG.RMEAGVNLYCKKVLIQEKAKDIVPEWLRFARGVVDSEELPLNISRETMQDSALIAKLNKVVTSRFLKFLDDQA.KNEpEIFKEFWNEFSIFLKEGAANDF..THRQEILKLLRFESSK..T.GeG..ELISLGDYVGRMKEGQEAIYFINGPTRQIIEEGPYLEVFKNKDYEVIYTYDGIDDYVFDMIREYDGKRL
+#=GR sp|Q24VT7|HTPG_DESHY  PP 999.*********************************************************************9999.765277********************..***************9..8.626..9********************************************************************
+sp|A4SLY0|HTPG_AERS4          NRE.-QKHGLKLYVQRVFIMDDAEQFMPTYLRFVKGVLDSNDLPLNVSREILQDNKVTVSLRKACSKRVLTMLAKLAkDDA.EKYAKFWSEFGNVLKEGPAEDY..ANREEIAKLLRFASTA..G.E.GeaQTVSLEDYVGRMKEGQQKIYYITADSFAAAKNSPHLEIFRKKGVEVLLMWERVDEWLMSHLTEFDGKQL
+#=GR sp|A4SLY0|HTPG_AERS4  PP 865..6678*******************************************************************94567.99********************..**************98..7.6.512689******************************************************************
+sp|P0A6Z3|HTPG_ECOLI          NRD.-HKHGLKLYVQRVFIMDDAEQFMPNYLRFVRGLIDSSDLPLNVSREILQDSTVTRNLRNALTKRVLQMLEKLAkDDA.EKYQTFWQQFGLVLKEGPAEDF..ANQEAIAKLLRFASTHtdS.S.A..QTVSLEDYVSRMKEGQEKIYYITADSYAAAKSSPHLELLRKKGIEVLLLSDRIDEWMMNYLTEFDGKPF
+#=GR sp|P0A6Z3|HTPG_ECOLI  PP 865..6778*******************************************************************94567.99********************..*************987225.6.6..89*******************************************************************
+sp|Q69QQ6|HSP82_ORYSJ         DTR.KKQNNIKLYVRRVFIMDNCEELIPEWLSFVKGIVDSEDLPLNISREMLQQNKILKVIRKNLVKKCVELFFEIA.ENK.EDYNKFYEAFSKNLKLGIHEDS..TNRTKIAELLRYHSTK..S.G.D..ELTSLKDYVTRMKEGQSEIYYITGESKKAVENSPFLEKLKKKGYEVLYMVDAIDEYAVGQLKEFEGKKL
+#=GR sp|Q69QQ6|HSP82_ORYSJ PP ***.*************************************************************************.***.**********************..****************..*.*.*..*********************************************************************
+sp|O02705|HS90A_PIG           ENR.KKKNNIKLYVRRVFIMDNCEELIPEYLNFIRGVVDSEDLPLNISREMLQQSKILKVIRKNLVKKCLELFTELA.EDK.ENYKKFYEQFSKNIKLGIHEDS..QNRKKLSELLRYYTSA..S.G.D..EMVSLKDYCTRMKENQKHIYYITGETKDQVANSAFVERLRKHGLEVIYMIEPIDEYCVQQLKEFEGKTL
+#=GR sp|O02705|HS90A_PIG   PP ***.*************************************************************************.***.**********************..****************..*.*.*..*********************************************************************
+sp|P82995|HS90A_RAT           ENR.KKKNNIKLYVRRVFIMDNCEELIPEYLNFIRGVVDSEDLPLNISREMLQQSKILKVIRKNLVKKCLELFTELA.EDK.ENYKKFYEQFSKNIKLGIHEDS..QNRKKLSELLRYYTSA..S.G.D..EMVSLKDYCTRMKENQKHIYFITGETKDQVANSAFVERLRKHGLEVIYMIEPIDEYCVQQLKEFEGKTL
+#=GR sp|P82995|HS90A_RAT   PP ***.*************************************************************************.***.**********************..****************..*.*.*..*********************************************************************
+sp|P11501|HS90A_CHICK         ENR.KKKNNIKLYVRRVFIMDNCEELIPEYLNFMRGVVDSEDLPLNISREMLQQSKILKVIRKNLVKKCLELFTELA.EDK.ENYKKFYEQFSKNIKLGIHEDS..QNRKKLSELLRYYTSA..S.G.D..EMVSLKDYCTRMKENQKHVYYITGETKDQVANSAFVERLRKHGLEVIYMIEPIDEYCVQQLKEFEGKTL
+#=GR sp|P11501|HS90A_CHICK PP ***.*************************************************************************.***.**********************..****************..*.*.*..*********************************************************************
+sp|Q76LV1|HS90B_BOVIN         ENK.KKKNNIKLYVRRVFIMDSCDELIPEYLNFIRGVVDSEDLPLNISREMLQQSKILKVIRKNIVKKCLELFSELA.EDK.ENYKKFYEAFSKNLKLGIHEDS..TNRRRLSELLRYHTSQ..S.G.D..EMTSLSEYVSRMKETQKSIYYITGESKEQVANSAFVERVRKRGFEVVYMTEPIDEYCVQQLKEFDGKSL
+#=GR sp|Q76LV1|HS90B_BOVIN PP ***.*************************************************************************.***.**********************..****************..*.*.*..*********************************************************************
+#=GC PP_cons                  998.9999*****************************************************************9999.889.99******************99..9**************9..8.8.8..9********************************************************************
+#=GC RF                       xxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxx.xxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxx..x.x.x..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+6XG6_1|Chains                 ISVETD-IVVDH..YKEEKFEDRSpaaeclSEKETEELMAWMRNVLGSRVTNVKVTLRLDTHPAMVTVLEMGAARHF---LRMQQLAKTQEERAQLLQPTLEINPRHALIKKLNQLRASEP--GLAQLLVDQIYENAMIAAGL-VDDPRAMVGRLNELLVKALE-----------------------------------r
+#=GR 6XG6_1|Chains         PP ***999.55666..555554433212222357899*************************************88765...5667788888888888899**************98765543..334557889**********6.8************9998886...................................6
+sp|Q24VT7|HTPG_DESHY          LSADHGDLNLAD..EDGASAEEKL.....lSEEELKEFNDWLKEVLGEKVTEVRESKRLVDSPAIIL-SHYG-THSMQRMMQLM---NRDLQDVP--AGILEINPKHVLIQRLNDLRKQE--DSFAPLAAEQLFANAQIAAGIIV-DPRSMVSRLNEILEKAL------------------------------------r
+#=GR sp|Q24VT7|HTPG_DESHY  PP **********98..7776555554.....25789*****************************9875.89**.567*****843...33333333..357************99876554..44444567899*********865.79999999999998877....................................7
+sp|A4SLY0|HTPG_AERS4          VSVTRGELDLGDleDEASKQAQEE......AEKANAGLVERVKTSLGEAVKEVRVTHRLTDSPSCIVTDNHGMSTQMIKLMRAA------GQPVPEQKYILELNPDHALVKKLDT----IEDEALFGEWVTLLHEQAQLAEQGGLNDPASFVSRINRLL----------------------------------------l
+#=GR sp|A4SLY0|HTPG_AERS4  PP **********96114556888999......999999**********************************************85......4566778889**********98865....4455677899***********999**************87........................................6
+sp|P0A6Z3|HTPG_ECOLI          QSVSKVDESLEK.lADEVDESAKE......AEKALTPFIDRVKALLGERVKDVRLTHRLTDTPAIVSTDADEMSTQMAKLFAAA------GQKVPEVKYIFELNPDHVLVK----RAADTEDEAKFSEWVELLLDQALLAERGTLEDPNLFIRRMNQLL----------------------------------------v
+#=GR sp|P0A6Z3|HTPG_ECOLI  PP *****9999998.34555678899......9999*******************************************9998764......4566677889*******9886....666777777899***************************99875........................................7
+sp|Q69QQ6|HSP82_ORYSJ         VSATKEGLKLDE..SEDEKKRQEE......LKEKFEGLCKVIKEVLGDKVEKVVVSDRVVDSPCCLVTGEYGWTANMERIMKAQALRDSSMAGYMSSKKTMEINPENSIMDELRKRADADKNDKSVKDLVMLLFETALLTSGFSLEDPNTFGTRIHRMLKLGLSIDEDESAE------ADADMPPLEDDAGESKMEEVD.
+#=GR sp|Q69QQ6|HSP82_ORYSJ PP ************..**********......******************************************************************************************************************************************8874......3356889999999*****998.
+sp|O02705|HS90A_PIG           VSVTKEGLELPE..DEEEKKKQEE......KKTKFENLCKIMKDILEKKVEKVVVSNRLVTSPCCIVTSTYGWTANMERIMKAQALRDNSTMGYMAAKKHLEINPDHSIIETLRQKAEADKNDKSVKDLVILLYETALLSSGFSLEDPQTHANRIYRMIKLGLGIDEDDPTADDSSAAVTEEMPPLEGDDDTSRMEEVD.
+#=GR sp|O02705|HS90A_PIG   PP ************..**********......*********************************************************************************************************************************************999999*********************9.
+sp|P82995|HS90A_RAT           VSVTKEGLELPE..DEEEKKKQEE......KKTKFENLCKIMKDILEKKVEKVVVSNRLVTSPCCIVTSTYGWTANMERIMKAQALRDNSTMGYMAAKKHLEINPDHSIIETLRQKAEADKNDKSVKDLVILLYETALLSSGFSLEDPQTHANRIYRMIKLGLGIDEDDPTVDDTSAAVTEEMPPLEGDDDTSRMEEVD.
+#=GR sp|P82995|HS90A_RAT   PP ************..**********......********************************************************************************************************************************************999999999*******************9.
+sp|P11501|HS90A_CHICK         VSVTKEGLELPE..DEEEKKKQEE......KKAKFENLCKIMKDILEKKVEKVVVSNRLVTSPCCIVTSTYGWTANMERIMKAQALRDNSTMGYMAAKKHLEINPDHSIIETLRQKAEADKNDKSVKDLVILLYETALLSSGFSLEDPQTHANRIYRMIKLGLGIDEDDTAAEEASPAVTEEMPPLEGDDDTSRMEEVD.
+#=GR sp|P11501|HS90A_CHICK PP ************..**********......************************************************************************************************************************************************************************9.
+sp|Q76LV1|HS90B_BOVIN         VSVTKEGLELPE..DEEEKKKMEE......SKAKFENLCKLMKEILDKKVEKVTISNRLVSSPCCIVTSTYGWTANMERIMKAQALRDNSTMGYMMAKKHLEINPDHPIVETLRQKAEADKNDKAVKDLVVLLFETALLSSGFSLEDPQTHSNRIYRMIKLGLGIDEDEVTAEEPSAAVPDEIPPLEGDEDASRMEEVD.
+#=GR sp|Q76LV1|HS90B_BOVIN PP ************..**********......*********************************************************************************************************************************************99999999*******************9.
+#=GC PP_cons                  *******99999..8888888888......999*********************************9******9999***9988***9998888899999**********9**99988888988889999************999************99**999*****99899999*88999**************99.
+#=GC RF                       xxxxxxxxxxxx..xxxxxxxxxx......xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+
+6XG6_1|Chains                 hggsgsgssamvdtlsglsseqgqsgdmtieedsathikfskrdedgkelagatmelrdssgktistwisdgqvkdfylypgkytfvetaapdgyevataitftvneqgqvtvngkatkgdahi
+#=GR 6XG6_1|Chains         PP 67778888888888888888889999999999********************************************************************************************
+sp|Q24VT7|HTPG_DESHY          ............................................................................................................................
+#=GR sp|Q24VT7|HTPG_DESHY  PP ............................................................................................................................
+sp|A4SLY0|HTPG_AERS4          qa..........................................................................................................................
+#=GR sp|A4SLY0|HTPG_AERS4  PP 78..........................................................................................................................
+sp|P0A6Z3|HTPG_ECOLI          s...........................................................................................................................
+#=GR sp|P0A6Z3|HTPG_ECOLI  PP 8...........................................................................................................................
+sp|Q69QQ6|HSP82_ORYSJ         ............................................................................................................................
+#=GR sp|Q69QQ6|HSP82_ORYSJ PP ............................................................................................................................
+sp|O02705|HS90A_PIG           ............................................................................................................................
+#=GR sp|O02705|HS90A_PIG   PP ............................................................................................................................
+sp|P82995|HS90A_RAT           ............................................................................................................................
+#=GR sp|P82995|HS90A_RAT   PP ............................................................................................................................
+sp|P11501|HS90A_CHICK         ............................................................................................................................
+#=GR sp|P11501|HS90A_CHICK PP ............................................................................................................................
+sp|Q76LV1|HS90B_BOVIN         ............................................................................................................................
+#=GR sp|Q76LV1|HS90B_BOVIN PP ............................................................................................................................
+#=GC PP_cons                  ............................................................................................................................
+#=GC RF                       ............................................................................................................................
+//
